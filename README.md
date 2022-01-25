@@ -6,7 +6,7 @@ Chrome Extension which can detect Fake News using TFid ML.
 2. Internet Connection
 
 # Installation
-1. Unzip the file data set inside the Machine Learning Model folder  
+1. Unzip the file data set inside the Machine Learning Model folder "news.zip" 
  
 2. Navigate to chrome menu>more tools>extension
 
