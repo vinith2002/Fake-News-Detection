@@ -1,3 +1,6 @@
+# Project URL
+https://github.com/vinith2002/Fake-News-Detection
+
 # Fake-News-Detection
 Chrome Extension which can detect Fake News using TFid ML.
 
