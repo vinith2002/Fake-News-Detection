@@ -1,3 +1,6 @@
+# Note
+Unzip the data set "news.zip" before using 
+
 # Information
 This part is used to create a ML model
 
